@@ -1,7 +1,7 @@
 Transitime
 ==========
 
-Java script for creating GTFS feeds from transit Automatic Vehicle Location (AVL) data, obtained via GPS.
+Code for improving accuracy of GTFS schedules using transit Automatic Vehicle Location (AVL) data, obtained via GPS.
 
 Software developed by Michael Smith (Transitime,  http://transitime.github.io/core/), in collaboration with the World Bank. 
 
